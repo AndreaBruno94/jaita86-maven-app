@@ -1,7 +1,7 @@
 package it.generationitaly.app.repository;
 
 import java.util.List;
-
+import it.generationitaly.app.entity.Utente;
 public interface UtenteRepository {
 
 	void save (Utente utente);

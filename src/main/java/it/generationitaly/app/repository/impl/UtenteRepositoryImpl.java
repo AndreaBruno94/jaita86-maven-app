@@ -32,20 +32,5 @@ public class UtenteRepositoryImpl implements UtenteRepository {
 		return null;
 	}
 
-	public void save(it.generationitaly.app.repository.Utente utente) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	public void update(it.generationitaly.app.repository.Utente utente) {
-		// TODO Auto-generated method stub
-		
-	}
-
-	public void delete(it.generationitaly.app.repository.Utente utente) {
-		// TODO Auto-generated method stub
-		
-	}
-
 	
 }
