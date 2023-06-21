@@ -2,7 +2,7 @@ package it.generationitaly.app.repository.impl;
 
 import java.util.List;
 
-import it.generationitaly.app.repository.Utente;
+import it.generationitaly.app.entity.Utente;
 import it.generationitaly.app.repository.UtenteRepository;
 
 public class UtenteRepositoryImpl implements UtenteRepository {
@@ -30,6 +30,21 @@ public class UtenteRepositoryImpl implements UtenteRepository {
 	public List<Utente> findAll() {
 		// TODO Auto-generated method stub
 		return null;
+	}
+
+	public void save(it.generationitaly.app.repository.Utente utente) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void update(it.generationitaly.app.repository.Utente utente) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void delete(it.generationitaly.app.repository.Utente utente) {
+		// TODO Auto-generated method stub
+		
 	}
 
 	
